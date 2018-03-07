@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=firstGen
+comment1.target=void\ go(java.lang.String[][])
+comment2.params=secondGen
+comment2.target=void\ print(java.lang.String[][])
+comment3.params=firstGen\ row\ col
+comment3.target=int\ checkNeighbors(java.lang.String[][],\ int,\ int)
+numComments=4
